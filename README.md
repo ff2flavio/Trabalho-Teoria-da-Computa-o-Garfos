@@ -1,15 +1,15 @@
-# Trabalho-Teoria-da-Computação-Grafos
-Segundo semestre 
+# TRABALHO-TEORIA-DA-COMPUTAÇÃO-GRAFOS
+SEGUNDO SEMESTRE 
   
-  Trabalho Prático 2 - Biblioteca para Teoria de Grafos
+  TRABALHO PRÁTICO 2 - BIBLIOTECA PARA TEORIA DE GRAFOS
   
-         Demonstração valendo ponto na aula de: 26/11/2015 ou 27/11/2015
+         DEMONSTRAÇÃO VALENDO PONTO NA AULA DE: 26/11/2015 OU 27/11/2015
   
   
   Implemente uma biblioteca para teoria de grafos, contendo estruturas de dados e algoritmos para representar
 e processar grafos. A biblioteca deve implementar cada uma das funcionalidades relacionadas abaixo, de forma
 fácil e prática para que possa ser utilizada por outros desenvolvedores.
- Representação de grafos direcionados ou não, com peso ou não
+. Representação de grafos direcionados ou não, com peso ou não
  Implementação dos algoritmos:
  Cálculo da distância de uma rota
  Busca em profundidade e busca em largura
@@ -21,8 +21,9 @@ A entrada do programa principal é um arquivo texto contendo a descrição do gr
 forma:
   
   
-  Exemplo de entradas :
-  GRAFO
+  EXEMPLO DE ENTRADAS :
+  GRAFO:
+  
 0 1 2 3; // Vértices do grafo
 true ; // Se o grafo é direcionado ou não
 true ; // Se o grafo tem pesos ou não
