@@ -1,0 +1,106 @@
+﻿$axure.loadCurrentPage({
+  "url":"alg_kruskal.html",
+  "generationDate":new Date(1446826590228.21),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"48bf813fe07443fc9e986307e732b413",
+    "type":"Axure:Page",
+    "name":"Alg Kruskal",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"fc730375f8d848318cde69b1bb4fb966",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":120,
+              "y":70},
+            "size":{
+              "width":540,
+              "height":250}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4b825286e3244755a40d1f5a71fa3503",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":120,
+                  "y":70},
+                "size":{
+                  "width":540,
+                  "height":250}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/home/u33_state1.gif"}},
+{
+          "id":"20a685d878034b129dd9b00041d4e919",
+          "label":"painel",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":90,
+              "y":50},
+            "size":{
+              "width":600,
+              "height":290}},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":false,
+          "propagate":false,
+          "diagrams":[{
+              "id":"d603a8a2bf154f03bf933b5840a8e6d6",
+              "label":"State1",
+              "type":"Axure:PanelDiagram",
+              "objects":[],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}}]}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "fc730375f8d848318cde69b1bb4fb966":{
+      "scriptId":"u0"},
+    "4b825286e3244755a40d1f5a71fa3503":{
+      "scriptId":"u1"},
+    "20a685d878034b129dd9b00041d4e919":{
+      "scriptId":"u2"}}});
